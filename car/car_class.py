@@ -1,10 +1,6 @@
 #car.py class 
 
 import sys 
-import pytest 
-
-sys.path.append(".")
-
 class car():   
     def __init__(self,name):        
         self.name = name 
